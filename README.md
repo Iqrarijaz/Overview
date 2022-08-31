@@ -1,6 +1,6 @@
 
 
-### My Statistics
+### 📊 My Statistics
 <br/>
 <p align="center">
   <a href="https://abhigyantrips.dev/">
