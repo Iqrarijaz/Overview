@@ -4,7 +4,7 @@
 <br/>
 <p align="center">
   <a href="https://abhigyantrips.dev/">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=iqrarijaz&theme=algolia&hide_border=true" />
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=iqrarijaz&theme=algolia&hide_border=true" />
   </a>
 </p>
 <br>
