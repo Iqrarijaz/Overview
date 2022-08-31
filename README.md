@@ -1,6 +1,15 @@
 
 
-<p><img width="50%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p>
+  <p> 
+ - :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
+- :trophy: `ACPC` Finalist 2021
+- :technologist: I love using Software as a solution for every `Problem`
+- :computer: I am a competitive programmer mainly at `Codeforces`
+- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
+  <p/>
+  <img width="50%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+</p>
 
 
 ### 📊 My Statistics
